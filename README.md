@@ -1,2 +1,1 @@
-# HelloWorld
-HelloWorld repository for testing
+This is just for testing
