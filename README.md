@@ -1,1 +1,1 @@
-This is just for testing. This file is modifed locally.
+This is just for testing. Let us get started with GitHub.
